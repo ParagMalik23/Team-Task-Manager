@@ -13,6 +13,6 @@ export default defineConfig({
 
   preview: {
     host: '0.0.0.0',
-    allowedHosts: ['team-task-manage.up.railway.app']
+    allowedHosts: ['capable-enthusiasm-production.up.railway.app']
   }
 })
