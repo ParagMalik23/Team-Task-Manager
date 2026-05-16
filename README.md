@@ -17,6 +17,8 @@ Full-stack MERN project for managing projects, tasks, team members, and progress
 - Node.js + Express
 - MongoDB + Mongoose
 - JWT authentication
+## Live Demo
+https://team-task-manager-ivory-theta.vercel.app/
 
 ## Setup
 
