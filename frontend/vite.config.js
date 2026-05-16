@@ -10,3 +10,11 @@ export default defineConfig({
     },
   },
 })
+
+export default defineConfig({
+  plugins: [react()],
+  preview: {
+    host: '0.0.0.0',
+    allowedHosts: ['team-task-manage.up.railway.app']
+  }
+})
